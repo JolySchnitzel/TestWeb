@@ -1,2 +1,0 @@
-# TestWeb
-Skolas html uzdevums
